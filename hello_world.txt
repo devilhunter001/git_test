@@ -1,4 +1,6 @@
 3 parts to the git workflow
-1. local untracked change 
-2. stages tracked change 
-3. change commited to repository 
+1.Working tree:  local untracked change 
+2.staging:  stages tracked change 
+3.commit:  change commited to repository 
+
+after these steps one can push their changes to github.
